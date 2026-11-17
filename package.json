@@ -1,0 +1,9 @@
+{
+  "name": "trama-artistas-chile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Directorio demostrativo de artistas de Chile",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
